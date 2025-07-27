@@ -1,0 +1,28 @@
+{
+  "name": "Connexia",
+  "version": "1.0.0",
+  "summary": "Elegant and modern Swift networking framework.",
+  "description": "Connexia is a modular, composable Swift networking framework. It provides powerful\nyet simple abstractions for making network requests, decoding JSON, uploading\nmultipart forms, and more. Built for clarity, testability, and extensibility,\nConnexia helps you write clean networking code in any iOS or macOS app.",
+  "homepage": "https://github.com/nanhemaurya/Connexia",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ravi Prakash Maurya": "info.nanhemaurya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nanhemaurya/Connexia.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.7",
+  "source_files": "Sources/**/*.{swift}",
+  "exclude_files": "Sources/Exclude",
+  "resources": "Sources/Resources/**/*",
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "swift_version": "5.7"
+}

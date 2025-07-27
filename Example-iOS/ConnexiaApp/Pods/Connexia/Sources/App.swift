@@ -15,7 +15,6 @@ final public class App: NSObject {
     
     private override init() {}
     
-    
     public var name = "Ravi"
     
 }

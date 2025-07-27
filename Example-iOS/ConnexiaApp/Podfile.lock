@@ -1,0 +1,22 @@
+PODS:
+  - Connexia (1.0.0)
+
+DEPENDENCIES:
+  - Connexia (from `https://github.com/nanhemaurya/Connexia.git`, tag `1.0.0`)
+
+EXTERNAL SOURCES:
+  Connexia:
+    :git: https://github.com/nanhemaurya/Connexia.git
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  Connexia:
+    :git: https://github.com/nanhemaurya/Connexia.git
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  Connexia: 1cdb4741baeab9f3cb798ca7c51862452f05062a
+
+PODFILE CHECKSUM: 2825b29d0f51673eccfd1e0569074e3459d38810
+
+COCOAPODS: 1.16.2
