@@ -18,9 +18,9 @@ Pod::Spec.new do |s|
   s.platform         = :ios, '13.0'
   s.swift_version    = '5.7'
 
-  s.source_files     = 'Sources/Connexia/**/*.{swift}'
-  s.exclude_files    = 'Sources/Connexia/Exclude'
-  s.resources        = 'Sources/Connexia/Resources/**/*'
+  s.source_files     = 'Sources/**/*.{swift}'
+  s.exclude_files    = 'Sources/Exclude'
+  s.resources        = 'Sources/Resources/**/*'
 
   s.frameworks       = 'Foundation'
 
